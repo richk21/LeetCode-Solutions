@@ -142,3 +142,15 @@
 - 🔭 Connect with me: **[Piyushjar](https://github.com/piyushjar))**
 
 ---
+
+---
+### Connect with me:
+
+<img align="right" src="https://avatars3.githubusercontent.com/RajkumarSony?size=100" width="100px;" alt=""/>
+
+- 👨‍💻 My name is **Richa K**
+- 🌱 I’m an aspiring Front-End Developer.
+- 📫 Reach me: **rich21kiran@gmail.com**
+- 🔭 Connect with me: **[Richa K](https://github.com/richk21/)**
+
+---
